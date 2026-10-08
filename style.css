@@ -12,7 +12,6 @@
   --mono: "DM Mono", monospace;
   --sans: "Manrope", sans-serif;
 }
-
 * {
   box-sizing: border-box;
   margin: 0;
@@ -239,7 +238,6 @@ h2 {
   line-height: 1.05;
   letter-spacing: -2.5px;
 }
-
 .about-grid p {
   color: var(--muted);
   margin-bottom: 18px;
